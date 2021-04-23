@@ -12,4 +12,4 @@ Churn rate is a marketing metric that describes the number of customers who leav
 
 # Ranked in top 6% among 4200+ participants
 
-Link to Leadboard : https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/leaderboard/predict-the-churn-risk-rate-11-fb7a760d/
+Link to Leadboard : https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-customer-churn/leaderboard/predict-the-churn-risk-rate-11-fb7a760d/page/5/
