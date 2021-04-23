@@ -10,4 +10,4 @@ Churn rate is a marketing metric that describes the number of customers who leav
 ### Task is to predict the churn score for a website based on the features provided in the dataset.
 
 
-# Ranked in top 6% among 4500+ participants
+# Ranked in top 6% among 4200+ participants
